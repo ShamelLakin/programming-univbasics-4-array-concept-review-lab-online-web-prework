@@ -5,7 +5,7 @@ def find_element_index(array, value_to_find)
 while array[counter] do
   puts array[counter]
   counter += 1
-  find_element_index.at[2]
+  find_element_index.index[2]
 end
 end
 
