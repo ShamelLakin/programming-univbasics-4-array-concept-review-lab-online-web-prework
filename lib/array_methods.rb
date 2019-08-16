@@ -9,7 +9,13 @@ while find_element_index[counter] do
 end
 
 def find_max_value(array)
-  # Add your solution here
+   counter = 0
+  array = [1, 2, 3, 4]
+ 
+while find_max_value[counter] do
+  puts array[counter]
+  counter += 1
+  find_max_value.max
 end
 
 def find_min_value(array)
