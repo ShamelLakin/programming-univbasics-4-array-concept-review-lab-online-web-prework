@@ -10,7 +10,7 @@ end
 
 def find_max_value(array)
    counter = 0
-  array = [1, 2, 3, 4]
+  array = [1, 2, 3, 4,5]
  
 while find_max_value[counter] do
   puts array[counter]
